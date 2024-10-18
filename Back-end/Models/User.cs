@@ -1,4 +1,4 @@
-namespace talentum
+namespace talentum.Models
 {
     public class user
     {
