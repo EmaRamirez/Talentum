@@ -11,7 +11,7 @@
 
 
 
-![Introducción]![Talentum](https://github.com/user-attachments/assets/f48495e7-9ada-429e-8286-e43c8e681901)
+![Talentum](https://github.com/user-attachments/assets/f48495e7-9ada-429e-8286-e43c8e681901)
 
 
 
